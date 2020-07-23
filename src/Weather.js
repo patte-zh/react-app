@@ -14,7 +14,7 @@ export default function Weather(props) {
   return (
     <div>
       <h2> I did it!!!</h2>{" "}
-      <Loader type="Bars" color="#00BFFF" height={80} width={80} />
+      <Loader type="Bars" color="grey" height={80} width={80} />
     </div>
   );
 }
